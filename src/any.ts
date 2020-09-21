@@ -1,10 +1,10 @@
 import axios from 'axios';
 export {};
 
-let url: string = 
-'http://udemy-utils.herokuapp.com/api/v1/articles?token=token123';
+let url: string =
+  'http://udemy-utils.herokuapp.com/api/v1/articles?token=token123';
 
-axios.get(url).then(function (response) {
+axios.get(url).then(function(response) {
   interface Article {
     id: number;
     title: string;
@@ -14,3 +14,5 @@ axios.get(url).then(function (response) {
   data = response.data;
   console.log(data);
 });
+
+//any型は型の不明な変数を扱うことができるデータ型。
