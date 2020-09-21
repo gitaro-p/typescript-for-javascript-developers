@@ -13,3 +13,5 @@ let nijigenHairetsu: number[][] = [
 ];
 
 let hairetsu: (string | number | boolean)[] = [1, false, 'Japan'];
+
+//

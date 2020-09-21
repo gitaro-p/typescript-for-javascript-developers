@@ -5,3 +5,5 @@ function returnNothing(): void {
 }
 
 console.log(returnNothing());
+
+//

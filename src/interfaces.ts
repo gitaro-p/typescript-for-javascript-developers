@@ -14,3 +14,5 @@ let object: ObjectInterface = {
   name: 'Ham-san',
   age: 43
 };
+
+//
