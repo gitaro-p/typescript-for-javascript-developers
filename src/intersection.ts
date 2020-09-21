@@ -27,5 +27,3 @@ const OtaniShouhei: TwoWayPlayer = {
   throwingSpeed: 165,
   battingAverage: 0.286
 };
-
-//intersection型は複数の型を1つに結合します。

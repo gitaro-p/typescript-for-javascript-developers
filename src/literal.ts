@@ -10,5 +10,3 @@ month = 12;
 
 let TRUE: true = true;
 // TRUE = false;
-
-//文字列literal型と数値literal型と真偽値literal型があり、それぞれ正確な値を指定できる。

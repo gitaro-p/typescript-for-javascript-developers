@@ -32,5 +32,3 @@ enum COLORS {
   GRAY = '#808080'
 }
 COLORS.YELLOW;
-
-//数値列挙と文字列列挙の2つを使用できる。

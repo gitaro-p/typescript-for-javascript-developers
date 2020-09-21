@@ -13,5 +13,3 @@ try {
 
 let foo: void = undefined;
 let bar: never = error('only me!');
-
-//never型は発生しえない値の型を表す。
